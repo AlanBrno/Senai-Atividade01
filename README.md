@@ -26,3 +26,4 @@ criado novo commit "Readme Adcionado" com o comando "git commit -m "adcionado RE
 
 Enviado o Readme para o repositório do GitHub. comando "push -u origin main"
 
+Criado o arquivo .gitignore ( esse arquivo serve para orientar arquivos que desejamos que seja ignorada qualquer alteração no mesmo, basta inserir o nome do arquivo e o arquivo será ignorado)
