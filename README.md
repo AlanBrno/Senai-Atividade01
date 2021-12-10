@@ -40,3 +40,7 @@ Criado o arquivo .gitignore ( esse arquivo serve para orientar arquivos que dese
 criada nova branch: são ramificações para que a pasta Trunk ( pasta principal do projeto ) não seja alterada, com o comando:
 
 git checkout -b "novabranch"
+
+Feita a mesclagem com a branch criada com o comando: 
+
+git merge nomedabranch
